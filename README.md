@@ -31,10 +31,7 @@
 ## 🏆 Certifications  
 ✅ **Cisco Data Science Certificate**  
 ✅ **Google Data Analytics Professional Certificate**  
-✅ **IBM Data Science Professional Certificate**  
-✅ **AWS Certified Cloud Practitioner**  
-✅ **SQL for Data Science - University of California, Davis**  
-✅ **TensorFlow Developer Certification**  
+
 
 ---
 
@@ -44,12 +41,6 @@
 
 ---
 
-## 📂 Featured Projects  
-🔹 **[Project Name](#)** – Brief description (Tech stack: Python, TensorFlow, etc.)  
-🔹 **[Project Name](#)** – Brief description (Tech stack: SQL, Pandas, etc.)  
-🔹 **[Portfolio Website](#)** – A personal portfolio showcasing my work  
-
----
 
 ## 🌐 Let's Connect  
 📫 Reach me at: **reshmarizvie@gmail.com**  
