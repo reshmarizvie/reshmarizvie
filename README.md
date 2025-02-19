@@ -1,16 +1,31 @@
 ## Hi there 👋
+It's 
+##📊 Reshma Rizvie 
+#| Data Science Enthusiast
+BSc (Hons) in Information Technology | Specializing in Data Science | Undergraduate at SLIIT
 
-<!--
-**reshmarizvie/reshmarizvie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about leveraging data to drive innovation and making impactful decisions. Strong leadership skills with a commitment to teamwork and problem-solving.
 
-Here are some ideas to get you started:
+💡 Leadership & Achievements
+🔹 Experienced in leading data-driven projects and team collaborations
+🔹 Strong communication and mentorship skills in guiding peers
+🔹 Active participant in data science and AI communities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Skills & Expertise
+🔹 Data Analysis & Visualization (Python, Pandas, Matplotlib, Seaborn)
+🔹 Machine Learning & AI (Scikit-Learn, TensorFlow, PyTorch)
+🔹 SQL & Database Management
+🔹 Statistical Modeling & Predictive Analytics
+🔹 Big Data Technologies (Spark, Hadoop)
+🔹 Cloud Computing & Deployment (AWS, GCP)
+
+🎯 Goals
+🌱 Currently exploring deep learning, NLP, and real-world data-driven problem-solving.
+📈 Aspiring to become a Data Scientist and contribute to AI-driven innovations.
+
+🌐 Let's Connect
+📫 Reach me at: reshmarizvie@gmail.com 
+💼 LinkedIn: [Your LinkedIn Profile]
+📂 Portfolio: [Your Portfolio (if available)]
+
+
