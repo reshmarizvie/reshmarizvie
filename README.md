@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm  
 
 # 📊 Reshma Rizvie  
-### | Data Science Enthusiast | Tech Explorer  
+### | Data Science Enthusiast |  
 
 **BSc (Hons) in Information Technology | Specializing in Data Science | Undergraduate at SLIIT**  
 
